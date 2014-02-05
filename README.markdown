@@ -1,0 +1,2 @@
+# RoR tutorials: sample app
+
